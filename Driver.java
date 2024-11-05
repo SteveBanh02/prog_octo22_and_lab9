@@ -52,7 +52,6 @@ public class Driver {
 
             if(average2Test >= 60 ){
                 System.out.println("Student name: " + studentArray[j].getName());
-                System.out.println("Average of first 2 tests: " + average2Test);
 
                 if(totalAverage >= 60){
                     System.out.println("Average of all 3 tests: " + totalAverage);
